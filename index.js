@@ -1,3 +1,2 @@
-//Starting my HW
-
-const homeworkTIme = 2 +3;
+const CLI = require("./lib/cli.js");
+CLI();
