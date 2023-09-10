@@ -1,0 +1,27 @@
+{
+  "name": "svg-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresSilva1/SVG-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresSilva1/SVG-Assignment/issues"
+  },
+  "homepage": "https://github.com/AndresSilva1/SVG-Assignment#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.6.4"
+  }
+}
